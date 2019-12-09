@@ -6,27 +6,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  margin: 0;
-  background-color: #fff;
-}
-
 img {
-  display: block;
   width: 100px;
-}
-
-header {
-  display: flex;
-  background-color: #003442;
-}
-
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.card {
-  display: flex;
 }
