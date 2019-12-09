@@ -9,3 +9,59 @@ html {
 img {
   width: 100px;
 }
+
+.image {
+  display: block;
+  text-align: center;
+}
+
+
+header {
+  display: flex;
+  flex-direction: row;
+}
+
+section {
+  border-color: #f2f2f2;
+}
+
+.btn {
+  display: flex;
+  background-color: #333;
+  border-radius: 2px;
+  color: #f2f2f2;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: black;
+}
+
+.card1 {
+  background-color: #e2e2e2;
+  padding-left: .75rem;
+  padding-right: .75rem;
+  padding-bottom: .75rem;
+
+}
+
+.card2 {
+  background-color: #ccc;
+  padding-left: .75rem;
+  padding-right: .75rem;
+  padding-bottom: .75rem;
+}
+
+.card3 {
+  background-color: #aaa;
+  padding-left: .75rem;
+  padding-right: .75rem;
+  padding-bottom: .75rem;
+}
+
+.card4 {
+  background-color: #999;
+  padding-left: .75rem;
+  padding-right: .75rem;
+  padding-bottom: .75rem;
+}
